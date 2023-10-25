@@ -1,5 +1,5 @@
 export default {
-  input: 'lib/tokenRefreshLink.js',
+  input: 'tsc_lib/tokenRefreshLink.js',
   output: {
     file: 'lib/bundle.umd.js',
     format: 'umd',

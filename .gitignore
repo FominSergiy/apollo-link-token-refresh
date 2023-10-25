@@ -53,5 +53,6 @@ package-lock.json
 # Compiled
 dist
 lib
+tsc_lib
 
 .idea
